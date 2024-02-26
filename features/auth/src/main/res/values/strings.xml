@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Вход</string>
+    <string name="first_visit">Зашли впервые?</string>
+    <string name="to_register">Зарегистрироваться</string>
+    <string name="phone_number_label">Номер телефона</string>
+    <string name="phone_number_placeholder">Введите номер телефона</string>
+    <string name="password_label">Пароль</string>
+    <string name="password_placeholder">Введите пароль</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="to_login">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="password_repeat_label">Повторить пароль</string>
+    <string name="password_repeat_password">Повторите свой пароль</string>
+    <string name="phone_number_confirmation">Подтверждение номера телефона</string>
+    <string name="phone_number_confirmation_desc">
+        На ваш номер телефона было отправлено СМС с кодом подтверждения. Введите его ниже для завершения регистриции
+    </string>
+    <string name="resent_code_in">Отправить код повторно через</string>
+    <string name="resent_code">Выслать код повторно</string>
+    <string name="incorrect_phone_or_password">Неверный номер или пароль</string>
+    <string name="invalid_phone">Неверный формат номера</string>
+    <string name="invalid_password">Пароль должен состоять минимум из 8 символов</string>
+    <string name="passwords_mismatch">Пароли не совпадают</string>
+    <string name="user_already_exist">Такой пользователь уже зарегистрирован</string>
+    <string name="successful_registration">Успешная регистрация</string>
+    <string name="successful_registration_desc">Поздравляем! Вы успешно зарегистрировались</string>
+    <string name="go_to_login">Перейти ко входу</string>
+</resources>

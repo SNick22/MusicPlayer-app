@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="network_error_message">Нет подключения к интернету</string>
+    <string name="server_error_message">Ошибка на сервере</string>
+    <string name="unauthorized_error_message">Сессия истекла</string>
+    <string name="unknown_error_message">Неизвестная ошибка</string>
+</resources>

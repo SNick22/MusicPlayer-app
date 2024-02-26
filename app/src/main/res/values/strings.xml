@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="push_notification_channel">Music App push notifications</string>
+</resources>

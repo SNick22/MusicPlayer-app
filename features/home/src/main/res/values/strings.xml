@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_bar_label">Music Player</string>
+    <string name="all_music">Главная</string>
+    <string name="my_music">Моя музыка</string>
+</resources>
